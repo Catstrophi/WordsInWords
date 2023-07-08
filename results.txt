@@ -1,0 +1,564 @@
+1.
+In the word "DOG":
+	DO = DOG[0:1]
+
+2.
+In the word "CAT":
+	AT = CAT[1:2]
+
+3.
+In the word "BOX":
+	OX = BOX[1:2]
+
+4.
+In the word "CRATE":
+	RAT = CRATE[1:3]
+
+5.
+In the word "COTTAGE":
+	COT = COTTAGE[0:2]
+
+6.
+In the word "HOUSE":
+	US = HOUSE[2:3]
+
+7.
+In the word "TENT":
+	TEN = TENT[0:2]
+
+8.
+In the word "BOWL":
+	OWL = BOWL[1:3]
+
+9.
+In the word "SINK":
+	INK = SINK[1:3]
+
+10.
+In the word "BATHTUB":
+	BAT = BATHTUB[0:2]
+
+11.
+In the word "CUPBOARD":
+	BOAR = CUPBOARD[3:6]
+
+12.
+In the word "CORNER":
+	CORN = CORNER[0:3]
+
+13.
+w = PACKAGE
+w[2]+w[1]+w[5]+w[6]-->CAGE
+
+14.
+w = PRESENT
+w[0]+w[2]+w[5]-->PEN
+
+15.
+w = TABLE
+w[0]+w[1]+w[3]+w[4]-->TALE
+
+16.
+w = BARREL
+w[0]+w[4]+w[1]+w[2]-->BEAR
+
+17.
+w = BUCKET
+w[2]+w[1]+w[0]-->CUB
+
+18.
+w = BASKET
+w[2]+w[3]+w[1]+w[5]+w[4]-->SKATE
+
+19.
+w = ATTIC
+w[4]+w[0]+w[1]-->CAT
+
+20.
+w = TAR
+w[1]+w[2]+w[0]-->ART
+
+21.
+w = SWORD
+w[1]+w[2]+w[3]+w[4]+w[0]-->WORDS
+
+22.
+w = DOOR
+w[1]+w[0]+w[1]+w[3]-->ODOR
+
+23.
+w = WINGS
+w[4]+w[0]+w[1]+w[2]+w[3]-->SWING
+
+24.
+w = BRUSH
+w[3]+w[4]+w[1]+w[2]+w[0]-->SHRUB
+
+25.
+w = PLUM
+w[1]+w[2]+w[3]+w[0]-->LUMP
+
+26.
+w = SHOE
+w[1]+w[2]+w[0]+w[3]-->HOSE
+
+27.
+w = MARY
+w[1]+w[2]+w[0]+w[3]-->ARMY
+
+28.
+In the word "STREET":
+	TREE = STREET[0:3]
+
+29.
+In the word "CURB":
+	CUR = CURB[0:2]
+
+30.
+w = LIBRARY
+w[3]+w[4]+w[1]+w[0]-->RAIL
+
+31.
+w = GUTTER
+w[2]+w[1]+w[0]-->TUG
+
+32.
+w = WAGON
+w[2]+w[3]+w[0]+w[4]-->GOWN
+
+33.
+w = AUTOMOBILE
+w[6]+w[3]+w[0]+w[2]-->BOAT
+
+34.
+w = HYDRANT
+w[2]+w[4]+w[3]+w[6]-->DART
+
+35.
+w = MAILBOX
+w[3]+w[1]+w[0]+w[4]-->LAMB
+
+36.
+w = BASEBALL
+w[2]+w[3]+w[1]+w[6]-->SEAL
+
+37.
+In the word "WINDOW":
+	WIND = WINDOW[0:3]
+
+38.
+w = RAINDROP
+w[7]+w[2]+w[3]-->PIN
+
+39.
+w = SNOWFLAKE
+w[0]+w[1]+w[6]+w[7]+w[8]-->SNAKE
+
+40.
+w = TELEVISION
+w[9]+w[8]+w[6]+w[1]-->NOSE
+
+41.
+w = RADIO
+w[1]+w[3]+w[0]-->AIR
+
+42.
+w = CLOSET
+w[5]+w[2]+w[4]+w[3]-->TOES
+
+43.
+w = SHOWER
+w[0]+w[2]+w[3]-->SOW
+
+44.
+w = REFRIGERATOR
+w[5]+w[8]+w[0]+w[9]+w[1]+w[0]-->GARTER
+
+45.
+w = CARPET
+w[3]+w[4]+w[1]+w[2]-->PEAR
+
+46.
+w = FURNITURE
+w[0]+w[2]+w[1]+w[4]+w[5]-->FRUIT
+
+47.
+w = PEACH
+w[3]+w[2]+w[0]-->CAP
+
+48.
+w = ORANGE
+w[4]+w[5]+w[2]+w[1]-->GEAR
+
+49.
+w = WATERMELON
+w[7]+w[3]+w[5]+w[8]+w[9]-->LEMON
+
+50.
+w = APRICOT
+w[4]+w[0]+w[2]+w[6]-->CART
+
+51.
+w = PEAR
+w[2]+w[0]+w[1]-->APE
+
+52.
+w = APPLE
+w[1]+w[0]+w[3]-->PAL
+
+53.
+In the word "CHERRY":
+	HER = CHERRY[1:3]
+
+54.
+In the word "CHIMPANZEE":
+	HIM = CHIMPANZEE[1:3]
+
+55.
+w = TIGER
+w[0]+w[1]+w[3]-->TIE
+
+56.
+w = ELEPHANT
+w[3]+w[1]+w[5]+w[6]+w[0]-->PLANE
+
+57.
+w = HIPPOPOTAMUS
+w[1]+w[1]+w[2]+w[4]+w[1]+w[0]+w[7]-->SPOUT
+
+58.
+w = CAMEL
+w[4]+w[1]+w[0]+w[3]-->LACE
+
+59.
+w = WHALE
+w[3]+w[2]+w[0]-->LAW
+
+60.
+w = LION
+w[2]+w[1]+w[0]-->OIL
+
+61.
+w = CROCODILE
+w[5]+w[2]+w[2]+w[1]-->DOOR
+
+62.
+w = MONKEY
+w[0]+w[1]+w[2]+w[4]+w[5]-->MONEY
+
+63.
+w = SPARROW
+w[6]+w[2]+w[0]+w[1]-->WASP
+
+64.
+w = KANGAROO
+w[2]+w[6]+w[6]+w[0]-->NOOK
+
+65.
+w = GIRAFFE
+w[4]+w[1]+w[2]+w[6]-->FIRE
+
+66.
+w = PUMA
+w[2]+w[3]+w[0]-->MAP
+
+67.
+w = BUFFALO
+w[5]+w[6]+w[4]+w[2]-->LOAF
+
+68.
+w = RHINOCEROS
+w[9]+w[5]+w[4]+w[0]+w[6]-->SCORE
+
+69.
+w = FLOWER
+w[3]+w[2]+w[1]+w[0]-->WOLF
+
+70.
+w = VIOLET
+w[3]+w[2]+w[0]+w[4]-->LOVE
+
+71.
+w = PETUNIA
+w[0]+w[5]+w[1]-->PIE
+
+72.
+w = HORSE
+w[2]+w[1]+w[3]+w[4]-->ROSE
+
+73.
+w = DANDELION
+w[6]+w[0]+w[4]+w[1]-->IDEA
+
+74.
+w = PEONY
+w[0]+w[2]+w[3]+w[4]-->PONY
+
+75.
+w = DAHLIA
+w[2]+w[1]+w[4]+w[3]-->HAIL
+
+76.
+w = MARIGOLD
+w[4]+w[3]+w[2]+w[6]-->GIRL
+
+77.
+w = GARDENIA
+w[3]+w[1]+w[5]+w[0]+w[4]+w[2]-->DANGER
+
+78.
+w = CRHYSANTHEMUM
+w[1]+w[0]+w[1]+w[1]+w[0]+w[2]-->MUCH
+
+79.
+w = JANUARY
+w[6]+w[1]+w[5]+w[2]-->YARN
+
+80.
+w = FEBRUARY
+w[0]+w[4]+w[3]-->FUR
+
+81.
+w = MARCH
+w[2]+w[1]+w[0]-->RAM
+
+82.
+w = APRIL
+w[1]+w[0]+w[3]+w[4]-->PAIL
+
+83.
+In the word "MAY":
+	MA = MAY[0:1]
+
+84.
+In the word "JUNE":
+	UN = JUNE[1:2]
+
+85.
+In the word "JULY":
+	JULY = JULY[0:3]
+
+86.
+w = JULIUS
+w[5]+w[1]+w[2]+w[1]-->SULU
+
+87.
+w = AUGUST
+w[2]+w[0]+w[4]-->GAS
+
+88.
+w = SEPTEMBER
+w[2]+w[1]+w[3]+w[0]-->PETS
+
+89.
+w = OCTOBER
+w[4]+w[0]+w[0]+w[2]-->BOOT
+
+90.
+w = NOVEMBER
+w[4]+w[1]+w[2]+w[3]+w[7]-->MOVER
+
+91.
+w = DECEMBER
+w[0]+w[1]+w[1]+w[7]-->DEER
+
+92.
+w = SUNDAY
+w[0]+w[4]+w[2]+w[3]-->SAND
+
+93.
+w = MONDAY
+w[0]+w[4]+w[2]+w[5]-->MANY
+
+94.
+w = TUESDAY
+w[4]+w[1]+w[3]+w[0]-->DUST
+
+95.
+w = WEDNESDAY
+w[5]+w[1]+w[2]+w[7]+w[3]-->SEDAN
+
+96.
+w = THURSDAY
+w[0]+w[3]+w[6]+w[7]-->TRAY
+
+97.
+w = FRIDAY
+w[0]+w[4]+w[2]+w[1]+w[5]-->FAIRY
+
+98.
+w = SATURDAY
+w[0]+w[2]+w[1]+w[4]-->STAR
+
+99.
+w = OCEAN
+w[0]+w[4]+w[2]-->ONE
+
+99.
+w = OCEAN
+w[1]+w[0]+w[4]+w[2]-->CONE
+
+99.
+w = OCEAN
+w[1]+w[3]+w[4]+w[2]-->CANE
+
+99.
+w = OCEAN
+w[1]+w[3]+w[4]-->CAN
+
+99.
+w = OCEAN
+w[3]+w[1]+w[2]-->ACE
+
+100.
+w = EARTH
+w[4]+w[1]+w[2]+w[0]-->HARE
+
+100.
+In the word "EARTH":
+	EAR = EARTH[0:2]
+
+100.
+w = EARTH
+w[4]+w[0]+w[1]+w[2]+w[3]-->HEART
+
+100.
+w = EARTH
+w[2]+w[1]+w[3]-->RAT
+
+100.
+w = EARTH
+w[4]+w[0]+w[1]+w[3]-->HEAT
+
+100.
+w = EARTH
+w[4]+w[1]+w[2]+w[3]-->HART
+
+100.
+w = EARTH
+w[3]+w[0]+w[1]+w[2]-->TEAR
+
+100.
+w = EARTH
+w[4]+w[1]+w[3]-->HAT
+
+101.
+w = FRANCE
+w[4]+w[2]+w[0]+w[5]-->CAFE
+
+102.
+w = ARGENTINA
+w[2]+w[6]+w[0]+w[4]+w[5]-->GIANT
+
+103.
+w = BELGIUM
+w[3]+w[5]+w[6]-->GUM
+
+104.
+w = IRELAND
+w[5]+w[4]+w[0]+w[3]-->NAIL
+
+105.
+w = WALES
+w[4]+w[3]+w[1]-->SEA
+
+106.
+w = ENGLAND
+w[2]+w[4]+w[3]+w[0]-->GALE
+
+107.
+w = HOLLAND
+w[6]+w[1]+w[2]+w[2]-->DOLL
+
+108.
+w = CHILE
+w[2]+w[0]+w[4]-->ICE
+
+109.
+w = CHINA
+w[2]+w[3]+w[0]+w[1]-->INCH
+
+110.
+w = MEXICO
+w[0]+w[3]+w[4]+w[1]-->MICE
+
+111.
+w = SCOTLAND
+w[1]+w[2]+w[5]+w[4]-->COAL
+
+112.
+w = DENMARK
+w[3]+w[4]+w[5]+w[1]-->MARE
+
+113.
+w = PUERTORICO
+w[0]+w[1]+w[3]+w[3]-->PURR
+
+114.
+w = AUSTRALIA
+w[6]+w[0]+w[4]+w[7]+w[0]+w[3]-->LARIAT
+
+115.
+w = NEWZELAND
+w[2]+w[6]+w[0]+w[8]-->WAND
+
+116.
+w = CANADA
+w[1]+w[2]+w[4]-->AND
+
+117.
+w = ALSO
+w[1]+w[0]+w[3]+w[2]-->LAOS
+
+118.
+w = MELISSA
+w[4]+w[6]+w[3]+w[2]-->SAIL
+
+119.
+w = ROGER
+w[1]+w[0]+w[2]+w[3]-->ORGE
+
+120.
+w = JENNIFER
+w[5]+w[1]+w[7]+w[2]-->FERN
+
+121.
+w = MICHAEL
+w[2]+w[6]+w[4]+w[0]-->CLAM
+
+122.
+w = CAROL
+w[0]+w[3]+w[1]+w[4]-->COAL
+
+123.
+w = ARNOLD
+w[5]+w[0]+w[1]+w[2]-->DARN
+
+124.
+w = CHRISTOPHER
+w[1]+w[6]+w[2]+w[4]+w[9]-->HORSE
+
+125.
+w = TIMOTHY
+w[0]+w[3]+w[6]-->TOY
+
+126.
+w = DENNIS
+w[0]+w[4]+w[2]-->DIN
+
+127.
+w = KERRY
+w[0]+w[1]+w[4]-->KEY
+
+128.
+w = SHELLEY
+w[6]+w[2]+w[0]-->YES
+
+129.
+w = JOHN
+w[3]+w[1]-->NO
+
+130.
+In the word "MAYBELLE":
+	MAYBE = MAYBELLE[0:4]
+
