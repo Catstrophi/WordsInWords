@@ -22,12 +22,21 @@ It reads the contents of the file, splits the words, and performs some replaceme
 
 It iterates over the words in words.
 For each word, it removes punctuation marks, replaces "PUERTO" with "PUERTORICO", and checks if the word is in uppercase.
+
 If the word is in uppercase and not equal to "A", it appends it to uppercase_strings.
+
 For the word "EARTH", it appends a specific string to uppercase_strings.
+
+
 For the word "OCEAN", it appends a specific string to uppercase_strings.
 It removes specific words from uppercase_strings.
+
 It reverses uppercase_strings and removes specific elements.
+
 It reverses uppercase_strings again.
+
 It initializes a variable count to 0.
+
 It iterates over the range from 0 to the length of uppercase_strings in steps of 2.
+
 For each iteration, it increments count and calls the main function with appropriate arguments.
